@@ -1,2 +1,2 @@
 #!/bin/bas
-cut -d ":" -f 1,4 /etc/passwd
+cat -d ":" -f 1,4 /etc/passwd
