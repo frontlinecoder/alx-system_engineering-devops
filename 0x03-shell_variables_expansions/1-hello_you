@@ -1,0 +1,2 @@
+#!/bin/bash
+myvar="hello user" | echo $myvar
